@@ -197,7 +197,7 @@ echo "<br>";
 
 //array_column()
 $result = array(
-    array('name'=>'Manoj','cgpa'=>6.7,'status'=>'pass'),
+    array('name'=>'Sanoj','cgpa'=>6.7,'status'=>'pass'),
     array('name'=>"Shalini",'cgpa'=>9.8,'status'=>'pass'),
     array('name'=>'Mani','cgpa'=>3.2,'status'=>'fail')
     );
