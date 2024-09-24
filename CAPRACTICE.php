@@ -1,5 +1,5 @@
 <?php
-    $name = array("Deepshi","Pavanu","Swati");
+    $name = array("Deepshi","deesphiiii","Swati");
     $marks = array("99","45","54");
     $c = array_combine($name,$marks);
     print_r($c) ;
